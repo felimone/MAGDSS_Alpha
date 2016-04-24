@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">MAGDSS</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_household">HouseholdActivity</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_search_member">Search Member</string>
+    <string name="label_search">Search</string>
+    <string name="label_result">Result(s): </string>
+
+
+    <!-- Household String -->
+    <string name="label_household_head">Household Head</string>
+    <string name="label_household_number">Household Number</string>
+    <string name="label_last_visit">Last visit</string>
+    <!-- visi string -->
+    <string name="label_supervision">Supervision</string>
+    <string name="label_round">Round</string>
+    <string name="label_add_pregnancy">Pregnancy Result</string>
+    <string name="label_sync">Syncronize</string>
+</resources>

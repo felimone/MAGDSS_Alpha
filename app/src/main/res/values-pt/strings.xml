@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_login">Entrar</string>
+    <string name="title_activity_household">Agregado</string>
+    <string name="title_activity_search">Procurar</string>
+    <string name="title_activity_search_member">Procurar Membros</string>
+    <string name="label_search">Procurar</string>
+    <string name="label_result">Resultado(s): </string>
+    <!-- Household String -->
+    <string name="label_household_head">Chefe de Agregado</string>
+    <string name="label_household_number">Numero de agregado</string>
+    <string name="label_last_visit">Ultima visita</string>
+    <!-- visi string -->
+    <string name="label_supervision">Supervisao</string>
+    <string name="label_round">Ronda</string>
+    <string name="label_add_pregnancy">Resultado de Gravidez</string>
+    <string name="label_sync">Sincronizar</string>
+</resources>
